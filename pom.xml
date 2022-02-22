@@ -13,7 +13,6 @@
 	</properties>
 
 	<build>
-
 		<plugins>
 
 			<plugin>
@@ -51,10 +50,7 @@
 					<webXml>C:\SeleniumTraining\jenkins\mavenjenkins\src\test\WEB-INF\web.xml</webXml>
 				</configuration>
 			</plugin>
-
 		</plugins>
-
-
 	</build>
 
 
@@ -78,11 +74,6 @@
 			<version>5.0.2</version>
 		</dependency>
 
-
-
-
 	</dependencies>
-
-
 
 </project>
